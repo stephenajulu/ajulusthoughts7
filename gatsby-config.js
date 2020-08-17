@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://techwit7.netlify.app`,
     description: `Your Trusted Source of Quality Tech, Cybersecurity and Development Tips, Tricks, Tutorials, News, Reviews, Offers, Tools and More`,
     hero: {
-      heading: `Welcome to TechWit Ke, Your Source of Quality Tech Content`,
+      heading: `Welcome to TechWit Ke. A Source of Quality Tech Content`,
       maxWidth: 652,
     },
     social: [
