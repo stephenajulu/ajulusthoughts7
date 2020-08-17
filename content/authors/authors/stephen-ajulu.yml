@@ -3,6 +3,7 @@ bio: "Hi there! My Name is Stephen Ajulu. I am a Junior Front End Web Developer,
 featured: false
 avatar: avatars/author.jpg
 social:
-  - 'https://facebook.com/stephenajulu'
-  - 'https://twitter.com/stephenajulu'
-  - 'https://instagram.com/stephenajulu'
+  - url: https://facebook.com/stephenajulu
+  - url: https://twitter.com/stephenajulu
+  - url: https://instagram.com/stephenajulu
+  - url: https://github.com/stephenajulu
