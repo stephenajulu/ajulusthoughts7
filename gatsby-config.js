@@ -1,33 +1,33 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `TechWit Ke`,
+    name: `TechWit Ke `,
+    siteUrl: `https://techwit7.netlify.app`,
+    description: `Your Trusted Source of Quality Tech, Cybersecurity and Development Tips, Tricks, Tutorials, News, Reviews, Offers, Tools and More`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Welcome to TechWit Ke, Your Source of Quality Tech Content`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/techwitke`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/techwitke`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/techwitke`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/company/techwitke/`,
       },
       {
         name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://dribbble.com/techwitke`,
       },
     ],
   },
@@ -48,11 +48,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `TechWit Ke`,
+        short_name: `TechWit Ke`,
         start_url: `/`,
-        background_color: `#fff`,
-        theme_color: `#fff`,
+        background_color: `#000`,
+        theme_color: `#000`,
         display: `standalone`,
         icon: `src/assets/favicon.png`,
       },
