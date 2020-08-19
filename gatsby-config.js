@@ -1,33 +1,33 @@
 module.exports = {
   siteMetadata: {
-    title: `TechWit Ke`,
-    name: `TechWit Ke `,
-    siteUrl: `https://techwit7.netlify.app`,
-    description: `Your Trusted Source of Quality Tech, Cybersecurity and Development Tips, Tricks, Tutorials, News, Reviews, Offers, Tools and More`,
+    title: `Ajulu's Thoughts`,
+    name: `Ajulu's Thoughts`,
+    siteUrl: `https://ajulusthoughts7.netlify.app`,
+    description: `Get Quality Tech, Cybersecurity and Other Tips, Tricks, Tutorials, News, Reviews, Offers, Tools and More`,
     hero: {
-      heading: `Welcome to TechWit Ke. A Source of Quality Tech Content`,
+      heading: `Welcome to Ajulu's Thoughts. An Informative Tech Blog authored by Stephen Ajulu and others(guest posters)`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/techwitke`,
+        url: `https://twitter.com/stephenajulu`,
       },
       {
         name: `github`,
-        url: `https://github.com/techwitke`,
+        url: `https://github.com/stephenajulu`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/techwitke`,
+        url: `https://instagram.com/stephenajulu`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/techwitke/`,
+        url: `https://www.linkedin.com/in/stephenajulu/`,
       },
       {
         name: `dribbble`,
-        url: `https://dribbble.com/techwitke`,
+        url: `https://dribbble.com/stephenajulu`,
       },
     ],
   },
@@ -48,8 +48,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `TechWit Ke`,
-        short_name: `TechWit Ke`,
+        name: `Ajulu's Thoughts`,
+        short_name: `Ajulu's Thoughts`,
         start_url: `/`,
         background_color: `#000`,
         theme_color: `#000`,
