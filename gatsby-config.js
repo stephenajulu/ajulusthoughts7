@@ -6,7 +6,7 @@ module.exports = {
     description: `Get Quality Tech, Cybersecurity and Dev Content`,
     hero: {
       heading: `Welcome to Ajulu's Thoughts. An Informative Tech Blog authored by Stephen Ajulu and guest posters`,
-      maxWidth: 700,
+      maxWidth: 900,
     },
     social: [
       {
