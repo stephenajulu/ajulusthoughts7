@@ -3,10 +3,10 @@ module.exports = {
     title: `Ajulu's Thoughts`,
     name: `Ajulu's Thoughts`,
     siteUrl: `https://ajulusthoughts7.netlify.app`,
-    description: `Get Quality Tech, Cybersecurity and Other Tips, Tricks, Tutorials, News, Reviews, Offers, Tools and More`,
+    description: `Get Quality Tech, Cybersecurity and Dev Content`,
     hero: {
-      heading: `Welcome to Ajulu's Thoughts. An Informative Tech Blog authored by Stephen Ajulu and others(guest posters)`,
-      maxWidth: 652,
+      heading: `Welcome to Ajulu's Thoughts. An Informative Tech Blog authored by Stephen Ajulu and guest posters`,
+      maxWidth: 700,
     },
     social: [
       {
